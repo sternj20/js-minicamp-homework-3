@@ -1,0 +1,5 @@
+objects - like an array, but instead of just storing strings it can store keys and values
+properties - is the value that is associated with an object 
+methods - a function that exists within an object 
+for in loop - a way to iterate through an object 
+bracket vs dot notation - always use dot notation until you can't. you have to use bracket notation if you are dealing with something dynamic, like a variable, or something that isn't a string. 
